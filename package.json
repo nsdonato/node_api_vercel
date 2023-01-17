@@ -1,5 +1,6 @@
 {
-  "name": "node-multer-media",
+  "name": "test-node-vercel",
+  "author": "Noelia Donato",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,12 +10,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.17.1",
-    "multer": "^1.4.3"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
